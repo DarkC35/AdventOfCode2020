@@ -1,0 +1,9 @@
+<h2 id="part2">Part Two</h2>
+
+Source: https://adventofcode.com/2020/day/5#part2
+
+<p><em>Ding!</em> The "fasten seat belt" signs have turned on. Time to find your seat.</p>
+<p>It's a completely full flight, so your seat should be the only missing boarding pass in your list.  However, there's a catch: some of the seats at the very front and back of the plane don't exist on this aircraft, so they'll be missing from your list as well.</p>
+<p>Your seat wasn't at the very front or back, though; the seats with IDs +1 and -1 from yours will be in your list.</p>
+<p><em>What is the ID of your seat?</em></p>
+<p>Your puzzle answer was <code>705</code>.</p>
