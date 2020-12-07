@@ -1,7 +1,5 @@
 # Part Two
 
-Source: https://adventofcode.com/2020/day/3
-
 Time to check the rest of the slopes - you need to minimize the probability of a sudden arboreal stop, after all.
 
 Determine the number of trees you would encounter if, for each of the following slopes, you start at the top-left corner and traverse the map all the way to the bottom:
@@ -17,3 +15,5 @@ In the above example, these slopes would find `2`, `7`, `3`, `4`, and `2` tree(s
 **What do you get if you multiply together the number of trees encountered on each of the listed slopes?**
 
 Your puzzle answer was `1666768320`.
+
+Source: https://adventofcode.com/2020/day/3#part2

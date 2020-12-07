@@ -1,7 +1,5 @@
 <h2>Day 5: Binary Boarding</h2>
 
-Source: https://adventofcode.com/2020/day/5
-
 <p>You board your plane only to discover a new problem: you dropped your boarding pass! You aren't sure which seat is yours, and all of the flight attendants are busy with the flood of people that suddenly made it through passport control.</p>
 <p>You write a <span title="No problem!">quick program</span> to use your phone's camera to scan all of the nearby boarding passes (your puzzle input); perhaps you can find your seat through process of elimination.</p>
 <p>Instead of <a target="_blank" href="https://www.youtube.com/watch?v=oAHbLRjF0vo">zones or groups</a>, this airline uses <em>binary space partitioning</em> to seat people. A seat might be specified like <code>FBFBBFFRLR</code>, where <code>F</code> means "front", <code>B</code> means "back", <code>L</code> means "left", and <code>R</code> means "right".</p>
@@ -35,3 +33,5 @@ Source: https://adventofcode.com/2020/day/5
 </ul>
 <p>As a sanity check, look through your list of boarding passes. <em>What is the highest seat ID on a boarding pass?</em></p>
 <p>Your puzzle answer was <code>822</code>.</p>
+
+Source: https://adventofcode.com/2020/day/5

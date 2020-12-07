@@ -1,7 +1,5 @@
 # Part Two
 
-Source: https://adventofcode.com/2020/day/4#part2
-
 The line is moving more quickly now, but you overhear airport security talking about how passports with invalid data are getting through. Better add some data validation, quick!
 
 You can continue to ignore the `cid` field, but each other field has strict rules about what values are valid for automatic validation:
@@ -77,3 +75,5 @@ iyr:2010 hgt:158cm hcl:#b6652a ecl:blu byr:1944 eyr:2021 pid:093154719
 Count the number of **valid** passports - those that have all required fields **and valid values**. Continue to treat `cid` as optional. **In your batch file, how many passports are valid?**
 
 Your puzzle answer was `188`.
+
+Source: https://adventofcode.com/2020/day/4#part2

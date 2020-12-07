@@ -1,7 +1,5 @@
 # Part Two
 
-Source: https://adventofcode.com/2020/day/2
-
 While it appears you validated the passwords correctly, they don't seem to be what the Official Toboggan Corporate Authentication System is expecting.
 
 The shopkeeper suddenly realizes that he just accidentally explained the password policy rules from his old job at the sled rental place down the street! The Official Toboggan Corporate Policy actually works a little differently.
@@ -17,3 +15,5 @@ Given the same example list from above:
 **How many passwords are valid** according to the new interpretation of the policies?
 
 Your puzzle answer was `267`.
+
+Source: https://adventofcode.com/2020/day/2#part2

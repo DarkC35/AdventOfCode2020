@@ -1,7 +1,5 @@
 # Day 1: Report Repair
 
-Source: https://adventofcode.com/2020/day/1
-
 After saving Christmas [five years in a row](https://adventofcode.com/events), you've decided to take a vacation at a nice resort on a tropical island. Surely, Christmas will go on without you.
 
 The tropical island has its own currency and is entirely cash-only. The gold coins used there have a little picture of a starfish; the locals just call them stars. None of the currency exchanges seem to have heard of them, but somehow, you'll need to find fifty of these coins by the time you arrive so you can pay the deposit on your room.
@@ -30,3 +28,5 @@ In this list, the two entries that sum to `2020` are `1721` and 299. Multiplying
 Of course, your expense report is much larger. Find the two entries that sum to `2020`; what do you get if you multiply them together?
 
 Your puzzle answer was `928896`.
+
+Source: https://adventofcode.com/2020/day/1
