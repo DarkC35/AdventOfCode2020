@@ -1,4 +1,6 @@
 from timeit import default_timer as timer
+
+
 # Version 1
 start = timer()
 with open("input.txt", "r") as f:

@@ -12,9 +12,9 @@ with open("input.txt", "r") as file:
             passport_string += line.replace("\n", " ")
             line = file.readline()
         passport_string = passport_string.strip()
-        #print(passport_string)
-        passport_fields = {entry.split(":")[0] for entry in passport_string.split(" ")}
-        #print(passport_fields)
+        passport_fields = {
+            entry.split(":")[0] for entry in passport_string.split(" ")
+        }
         if passport_fields.issuperset(required_fields):
             count += 1
         line = file.readline()

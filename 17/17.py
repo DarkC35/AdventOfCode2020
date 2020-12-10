@@ -4,8 +4,8 @@ import numpy as np
 
 def xmas(numbers, preamble):
     for i in range(preamble, len(numbers)):
-        for x in range(1,preamble):
-            for y in range(x+1,preamble+1):
+        for x in range(1, preamble):
+            for y in range(x+1, preamble+1):
                 if numbers[i] == (numbers[i-x] + numbers[i-y]):
                     break
             else:

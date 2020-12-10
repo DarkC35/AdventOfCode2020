@@ -1,5 +1,6 @@
 from timeit import default_timer as timer
 
+
 start = timer()
 x = 0
 count = 0

@@ -11,7 +11,9 @@ with open("input.txt", "r") as file:
             if questions_answered_with_yes == None:
                 questions_answered_with_yes = set(line.strip())
             else:
-                questions_answered_with_yes.intersection_update(set(line.strip()))
+                questions_answered_with_yes.intersection_update(
+                    set(line.strip())
+                )
             line = file.readline()
         result += len(questions_answered_with_yes)
         line = file.readline()

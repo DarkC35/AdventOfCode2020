@@ -1,6 +1,6 @@
 from timeit import default_timer as timer
 
-    
+
 def count_trees(input_lines, right, down):
     x = 0
     count = 0
